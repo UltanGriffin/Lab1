@@ -30,3 +30,4 @@ LineItem.where("quantity>1").each do |item|
   item.destroy     
 end
 end
+end
